@@ -218,7 +218,7 @@ p {
 /* Footer */
 
 .attribution {
-    min-height: 5vh;
+    height: 5vh;
     text-align: center;
     color: white;
     font-size: 1.2rem;
